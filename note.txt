@@ -1,2 +1,3 @@
 this is a test file form blue
-z
+
+edited by blue 
